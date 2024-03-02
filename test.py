@@ -5,7 +5,7 @@ i = 3
 ## Check if
 if (i == 1):
     
-    stdout.write('gfg') 
+    stdout.write('Hello world') 
 
 else:
 
